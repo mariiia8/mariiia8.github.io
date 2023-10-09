@@ -1,0 +1,48 @@
+        .logo {
+                width: 50px;
+                height: 50px;
+            }
+        header {
+            border-bottom: 2px dashed;
+            width:100%;
+            }
+            .name{
+                text-align: center;
+            }
+        .risovashka {
+            height: 200px;
+            width: 350px;
+        }
+        .bud{
+            height: 200px;
+            width: 350px;
+        }
+        .actress{ 
+        height: 200px;
+        width: 350px;
+        }
+        div{ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(45deg, #d052d9 50px, #ab9cf0, #9cbcf0);
+    text-align: center;
+    margin: auto;
+    cursor: pointer;
+    width: 900px;
+        }
+        div:hover{
+        border-radius: 24px;
+        border: 5px solid #ab68de;
+        }
+footer{
+    padding-top: 15px;
+    text-align: center;
+    width: 100%;
+    width: 50px;
+    background: repeating-linear-gradient(45deg, #d052d9 49px, #ab9cf0 49px, #9cbcf0 49px);
+    margin: auto;
+
+
+}
